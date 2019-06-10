@@ -1,0 +1,215 @@
+body{
+  background-color:cornsilk;
+}
+/* navbar design */
+.navbar{
+  border-radius: 0px;
+}
+.navbar-inverse .navbar-brand{
+  font-size: 40px;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: serif;
+  color: #233;
+}
+.left{
+  position: relative;
+  left: 100px;
+}
+.left li{
+  padding-left: 10px;
+  color: red;
+}
+.left li a,.dropdown{
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: serif;
+}
+.dropdown-menu{
+  font-size: 18px;
+  text-align: left;
+  list-style: none;
+  padding-top: 15px;
+  background-color: antiquewhite;
+}
+.dropdown-menu li a{
+  color: darkblue;
+}
+
+/* edit & add form inside member page */
+.form-horizontal{
+  width: 50%;
+  position: relative;
+  left: 250px;
+  top: 80px;
+}
+.form-horizontal h1{
+  text-align: center;
+  padding-bottom: 48px;
+  color: indigo;;
+  font-size: 43px;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: serif;
+}
+.form-horizontal h1 span{
+  left: 40px;
+  top: 15px;
+}
+.form-group{
+  padding-bottom: 10px;
+}
+.form-group label{
+  color: indigo;;
+  font-size: 15px;
+}
+.form-group button{
+  width: auto;
+  background-color: darkmagenta;
+  color: azure;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: serif;
+}
+.form-group i{
+  float: right;
+  position: relative;
+  top: -23px;
+  right: 27px;
+  }
+.radio{  
+}
+
+/* manage page table design */
+.table{
+  position: relative;
+  top: 80px;
+}  
+.top{
+  background-color: darkslategray;
+  color: white;
+}
+.manage{
+  text-align: center;
+  position: relative;
+  top: 30px;
+  color: indigo;
+}
+.Add{
+  position: relative;
+  top: 90px;
+  background-color: black;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: serif;
+  border:2px solid white;
+}
+.Add:hover{
+  background-color: white;
+  color: black;
+}
+
+
+
+/*dashboard page design*/
+
+.title{
+  text-align: center;
+  color: darkblue;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: serif;
+}
+
+.thumbnail{
+  margin-top: 35px;
+  background-color: lavender;
+  border-radius: 20px;
+}
+.thumbnail h1{
+  color: darkblue;
+  font-size: 25px;
+  text-align: center;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: serif;
+}
+.thumbnail span{
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: serif;
+  position: relative;
+  left: 85px;
+}
+
+.thumbnail a{
+  color: darkblue;
+  text-decoration: none;
+}
+.thumbnail a:hover{
+  color: red;
+  font-size: 40px;
+}
+
+.latest{
+  margin-top: 30px;
+}
+.item{
+  font-size: 22px;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: serif;
+  background-color: lavender;
+  border-radius: 20px;
+  padding-left: 22px;
+  margin-bottom: -8px;
+}
+/*end of dashboard*/
+
+
+/* start of catagories page */
+.radio-inline{
+  position: relative;
+  left: 20px
+}
+
+.btn-group{
+  float: right;
+  position: relative;
+  top: 70px;
+  right: 10px;
+  font-size: 20px;
+}
+.btn-group span{
+  color: white;
+  background-color: blue;
+}
+.btn-group span:hover{
+  background-color: white;
+}
+
+.btn-group span a{
+  color: white;
+  text-decoration: none;
+}
+.btn-group span a:hover{
+  color: blue;  
+}
+
+
+
+
+
+/*mahsos*/
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+/*mahsos*/

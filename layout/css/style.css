@@ -1,0 +1,15 @@
+body{
+  background-color:cornsilk;
+}
+
+.skitter-large
+{
+    max-width: 50%;
+    
+}
+.skitter .info_slide_dots{
+  bottom: 40px;
+}
+.skitter .info_slide_dots .image_number.image_number_select{
+  background-color: white;
+}
